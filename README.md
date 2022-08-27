@@ -96,7 +96,7 @@
 ## 🌎 View My Open Source Projects
 
 <div align="center">
-  <a href="https://gitlab.com/users/richard-nagy/contributed">
+  <a href="https://github.com/dubniczky?tab=repositories">
     <img src="https://img.shields.io/badge/Open%20Source%20Projects-blue?style=for-the-badge&" alt="Open Source Projects"/>
   </a>
 </div>
