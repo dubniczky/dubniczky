@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/nagy-richard/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
   </a>
-  <a href="https://discordapp.com/users/186851474548981761/">
-    <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord"/>
-  </a>
   <a href="https://richard-nagy.medium.com/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="My Discord"/>
   </a>
