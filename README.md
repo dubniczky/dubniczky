@@ -41,9 +41,9 @@
 
 ### Hi! I'm a Cyber Security Engineer from Hungary
 
-- 🎓 Doing a Master's course about Cyber Security in ELTE
+- 🎓 Master's degree in Cyber Security in ELTE
 - 📜 Working on publications about networking and security
-- 🛡️ Developing expoloits and cyber offensive tools
+- 🛡️ Developing exploits and cyber offensive tools
 - 📖 Writing articles on Medium for Better Programming publication
 - 🌎 Contributing to and creating open-source projects
 - 🏫 Tutor of 13 private and 72 public students in computer science, networking, and mathematics
