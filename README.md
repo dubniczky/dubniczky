@@ -15,14 +15,18 @@
     <img src="https://img.shields.io/badge/PyPI-yellow?style=for-the-badge&logo=python&logoColor=white" alt="PyPi"/>
   </a>
   <a href="https://hub.docker.com/u/detrix">
-    <img src="https://img.shields.io/badge/Docker_Hub-blue?style=for-the-badge&logo=docker&logoColor=white" alt="My LinkedIn"/>
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="My LinkedIn"/>
   </a>
     <a href="https://github.com/dubniczky">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="My LinkedIn"/>
   </a>
   </a>
     <a href="https://www.npmjs.com/~dubniczky">
-    <img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white" alt="My LinkedIn"/>
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="My LinkedIn"/>
+  </a>
+  </a>
+    <a href="https://www.researchgate.net/profile/Richard-Dubniczky">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="My LinkedIn"/>
   </a>
 </div>
 
