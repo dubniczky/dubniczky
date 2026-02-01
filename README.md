@@ -99,3 +99,9 @@
 - ⛓️ [Blockchain](https://github.com/dubniczky/Blockchain) - A simple proof of work blockchain implemented in Python.
 - 🧪 [Selenium Testing](https://github.com/dubniczky/Selenium-Testing) - Testing websites in containers using the Selenium framework and Chrome engine.
 - 💰 [Budgeting App](https://github.com/dubniczky/Budgeting-Webapp) - An Angular web application with NodeJS REST API server for web-based budgeting.
+- 🗡️ [Fermat RSA Attack](https://github.com/dubniczky/Fermat-RSA-Cracker) - Python script to crack RSA keys generated with insufficiently random prime number generators.
+- 🏭 [Prototype Pollution Attack](https://github.com/dubniczky/Prototype-Pollution) - JavaScript prototype oollution attack demo against a NodeJS Express server using Lodash.
+- 🧭 [Webmap](https://github.com/dubniczky/Webmap) - Website mapping crawler implemented in Python.
+- 📚 [Book Rental](https://github.com/dubniczky/Book-Rental) - Book rental system in Laravel with blade templating and SQLite.
+- 💦 [Shopify Liquid Snippets](https://github.com/dubniczky/Shopify-Snippets) - Snippets of code in liquid for Shopify stores.
+- 🛠️ [Makefiles](https://github.com/dubniczky/Makefiles) - Collection of Makefiles for several environments.
