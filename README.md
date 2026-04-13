@@ -48,7 +48,7 @@
 - 🪄 [Magic Hash](https://github.com/dubniczky/Magic-Hash) - A magic hash search algorithm with Go in multithreading.
 - ⛳️ [PicoCTF](https://github.com/dubniczky/PicoCTF) - A collection of 40+ solutions to PicoCTF challenges with explanations.
 - ⚔️ [Pollard RSA Cracker](https://github.com/dubniczky/Pollard-RSA-Cracker) - Accelerated RSA cracking using Pollard's p-1 algorithm implemented in C.
-- ✍️ [Cryptographic Proffs](https://github.com/dubniczky/Cryptographic-Proofs) - Cryptographic primitive proofs implemented in ProVerif.
+- ✍️ [Cryptographic Proofs](https://github.com/dubniczky/Cryptographic-Proofs) - Cryptographic primitive proofs implemented in ProVerif.
 - 🛍️ [Shopify Uploader](https://github.com/dubniczky/Shopify-Uploader) - Bulk Shopify product uploader using the public APIs.
 - 🛡️ [AWS Policies](https://github.com/dubniczky/policies) - A collection of AWS IAM policy templates and utilities.
 - 🔗 [Serverless URL Shortener](https://github.com/dubniczky/Serverless-URLShortener) - A URL shortener using serverless API functions optimized for the edge with managed database in AWS.
