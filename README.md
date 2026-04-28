@@ -38,6 +38,7 @@
 
 ## Open Source Projects
 
+- 🐚 [Netshell](https://github.com/dubniczky/netshell) - A lightweight HTTP CLI Shell that enables custom command injection into vulnerable web applications with a familiar shell-like interface.
 - 🔐 [CryptoLab](https://github.com/dubniczky/CryptoLab) - A hands-on cryptography repository containing implementations of fundamental encryption, decryption, hashing, padding, and random number generation in Python.
 - ⏱️ [Racetimer](https://github.com/dubniczky/Racetimer) - A Raspberry Pi application for timing races with GPIO input buttons and a simple UI.
 - 🗳️ [Orbit 3D](https://github.com/dubniczky/3D-Viewer) - A web-based 3D object viewer using Three.js for obj, stl and 3mf.
