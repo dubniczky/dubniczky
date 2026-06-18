@@ -66,6 +66,7 @@
 - 📍 [Geo Beacon](https://github.com/dubniczky/Geobeacon) - A global IP beacon and resolver server project with common file types.
 - 📟 [Shell Utilities](https://github.com/dubniczky/Shell-Utilities) - Collection of shell utilities for bash and zsh terminals to automate tedious tasks.
 - 🎟️ [Access Token Broker](https://github.com/dubniczky/Access-Token-Broker) - AWS S3 access token broker written in Go and optimized for performance and scalability.
+- ✳️ [GlobLib](https://github.com/dubniczky/GlobLib) - A collection of glob paths to find the configuration files of installed services.
 - 💣 [YAML Bomb](https://github.com/dubniczky/Yaml-Bomb) - YAML bomb files and a list exploitable programming languages.
 - 🗃️ [Remote Cache](https://github.com/dubniczky/Remote-Cache) - A client cache written in pure JavaScript for browsers to cache request data.
 - 🔑 [Trustless Authentication](https://github.com/dubniczky/Trustless-Authentication) - A secure authentication protocol without sending or storing the password.
